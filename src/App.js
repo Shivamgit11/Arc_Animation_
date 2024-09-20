@@ -5,8 +5,8 @@ import ArcAnimation from './Arc';
 function App() {
   return (
     <div className="App">
-{/* <ArcAnimation /> */}
-<div>workign started with arch</div>
+<ArcAnimation />
+{/* <div>workign started with arch</div> */}
     </div>
   );
 }
